@@ -1,0 +1,14 @@
+{
+  "name": "play",
+  "version": "1.0.0",
+  "description": "play time",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/**/*.js"
+  },
+  "author": "Daniel Kirrene",
+  "license": "WTFPL",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
