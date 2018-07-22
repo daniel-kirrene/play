@@ -4,7 +4,10 @@ var fart = function(a, b){
 
 var blah = () => 'blah blah blah';
 
+var difference  = (a,b) => a - b; 
+
 module.exports = {
     sum: fart,
-    blah: 'Gary'
+    blah: 'Gary',
+    difference: difference
 }
