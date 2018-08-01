@@ -5,10 +5,6 @@ function Rats(names) {
 	}
 };
 
-// Rats.withNamesBeginningWith = (letter) => rats.filter(rat -> rat.startsWith(letter));	
-
-// Rats.withNamesBeginningWith = (letter) => rats.filter(rat -> rat.startsWith(letter));
-
 module.exports = {
     Rats: Rats
 }
